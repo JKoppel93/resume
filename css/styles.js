@@ -51,5 +51,11 @@ export default StyleSheet.create({
     },
     "skills ul": {
         "listStyleType": "square"
+    },
+    "degree": {
+        "textAlign": "left"
+    },
+    "school": {
+        "textAlign": "left"
     }
 });
